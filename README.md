@@ -1,5 +1,2 @@
-PT:
-Um contador de faltas que fiz para minha namorada.
-
-ENG: 
-A university fault counter that I made for my girlfriend.
+A console-based tool that calculates allowed absences based on subject workload and academic policies.
+Implements input validation, rule-based calculations, and dynamic interaction loop.
